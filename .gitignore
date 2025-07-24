@@ -1,0 +1,11 @@
+# Virtual environment
+.venv/
+__pycache__/
+*.py[cod]
+
+# VS Code
+.vscode/settings.json
+
+# Logs and databases
+*.log
+*.sqlite
